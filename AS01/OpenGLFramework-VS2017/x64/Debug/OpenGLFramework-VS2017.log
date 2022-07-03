@@ -1,0 +1,38 @@
+﻿  glad.c
+  main.cpp
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(341): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(348): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(483): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(486): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(489): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(492): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(495): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(498): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(509): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(510): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(526): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(527): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(530): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(531): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(534): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(535): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(538): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(539): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(542): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(543): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(546): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(547): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(549): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(550): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(766): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(766): note: consider using '%zd' in the format string
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(766): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(766): note: consider using '%zd' in the format string
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(778): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(803): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\main.cpp(823): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  textfile.cpp
+d:\nthu\fourth semester\computer graphics\assignment\as01\as01_framework\nthu-cg-2022\as01\openglframework-vs2017\textfile.cpp(23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLFramework-VS2017.vcxproj -> D:\NTHU\Fourth Semester\Computer Graphics\Assignment\AS01\AS01_Framework\NTHU-CG-2022\AS01\x64\Debug\OpenGLFramework-VS2017.exe
